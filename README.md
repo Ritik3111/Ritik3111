@@ -14,14 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img width="200" src='https://user-images.githubusercontent.com/123143346/216851466-e6405aae-7f52-4e48-adbb-7d44743bfdac.png'>
-</p>
-##About me
+
+## About me
 
 - Currently, I'm a Computer Science graduate student :man_technologist: at Columbia University in the City of New York :us:, pursuing the Machine Learning track :robot: 
 - I graduated top of the class with a :1st_place_medal: from BITS Pilani, Dubai :united_arab_emirates: where I received the B.E. Computer Science Degree.
 - Fun Fact: I am an avgeek! :airplane: If I am not busy working on my assignments in the library, you can find me watching the latest episode of Air crash  Investigation :grimacing:
+
+<p align="left">
+  <img width="200"  src='https://www.google.com/urlsa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBirla_Institute_of_Technology_and_Science%2C_Pilani&psig=AOvVaw0zSRgmTpsSxdonNR9JCK05&ust=1675728809932000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNCNiLfO__wCFQAAAAAdAAAAABAi'>
+</p>
+
+<p align="center">
+  <img width="200" src='https://user-images.githubusercontent.com/123143346/216851466-e6405aae-7f52-4e48-adbb-7d44743bfdac.png'>
+</p>
 
 ---
 
