@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
 ![image](https://user-images.githubusercontent.com/123143346/216851466-e6405aae-7f52-4e48-adbb-7d44743bfdac.png)
-
+</p>
 ##About me
 
 - Currently, I'm a Computer Science graduate student :man_technologist: at Columbia University in the City of New York :us:, pursuing the Machine Learning track :robot: 
