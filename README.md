@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img width="200" src='https://user-images.githubusercontent.com/123143346/216854768-821b1c05-0810-4dd3-980f-d3ae17768e37.png'> <img width="200" src='https://user-images.githubusercontent.com/123143346/216851466-e6405aae-7f52-4e48-adbb-7d44743bfdac.png'>
+  <img width="200" height="200" src='https://user-images.githubusercontent.com/123143346/216854768-821b1c05-0810-4dd3-980f-d3ae17768e37.png'> <img width="200" height="200" src='https://user-images.githubusercontent.com/123143346/216851466-e6405aae-7f52-4e48-adbb-7d44743bfdac.png'>
 </p>
 
 ---
