@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 - I am an AI Data Engineer at [Percepta](https://www.percepta.com), where I build AI-driven analytics solutions, optimize data pipelines, and fine-tune models to enhance real-time business insights.
 - I completed my MS in Computer Science :man_technologist: from Columbia University in the City of New York :us: with a focus on Machine Learning:robot:
-- I graduated top of the class with a :1st_place_medal: from BITS Pilani, Dubai :united_arab_emirates: where I received a B.E. Computer Science Degree.
-- Fun Fact: I am an avgeek! :airplane: If I am not busy working building ETL pipelines, you can find me watching the latest episode of Air Crash Investigation :grimacing:
+- I graduated top of the class with the Chancellor's Gold Medal :1st_place_medal: from BITS Pilani, Dubai :united_arab_emirates: where I received a B.E. Computer Science Degree.
+- Fun Fact: I am an avgeek! :airplane: If I am not busy building ETL pipelines, you can find me watching the latest episode of Air Crash Investigation :grimacing:
 - Some cool projects that I have worked on:
   - [Buddy!](https://www.youtube.com/watch?v=CN9QwUCmzHw) The friend finder app 
 
