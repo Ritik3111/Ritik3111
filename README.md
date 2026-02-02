@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-- I am an AI Data Engineer at [Neon Redwood](https://www.neonredwood.com).
+- I am a Data Engineer at [Neon Redwood](https://www.neonredwood.com).
 - I completed my MS in Computer Science :man_technologist: from Columbia University in the City of New York :us: with a focus on Machine Learning:robot:
 - I graduated top of the class with the Chancellor's Gold Medal :1st_place_medal: from BITS Pilani, Dubai :united_arab_emirates: where I received a B.E. Computer Science Degree.
 - Fun Fact: I am an avgeek! :airplane: If I am not busy building ETL pipelines, you can find me watching the latest episode of Air Crash Investigation :grimacing:
